@@ -1,1 +1,19 @@
-h1 {color: red};
+h1 {
+    color: red
+};
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;    
+
+}
+
+.parrafo{ /* CLASE */
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+#parrafoInferior{ /* ID ESPECIFICO */
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

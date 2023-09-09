@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+    padding: 0; 
+    margin: 0; /*Quitar margen*/
+}
+body{
+    background-color: black;
+    color: #ffffff; /*Color letras */
+}
+h2{
+    color:#d43535
+}
+h2.h2Style1{
+    color: rgb(51, 146, 51);
+}
+.h2Style,.h2Style1{ /*Ponerle tamaño de letra a los estilos */
+    font-size: 50px;
+}
+
+h1{
+    font-family: 'Raleway', 'sans-serif'
+    font-weight: 900;
+}

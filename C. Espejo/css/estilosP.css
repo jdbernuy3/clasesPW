@@ -1,0 +1,33 @@
+
+header.cabeceraPrincipal, .menu{
+    background-color: rgb(201, 223, 166);
+    color: #0f0e0e;
+    width: 90%;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.cabeceraPrincipal h6{
+    font-family: sans-serif;
+    padding: 10px 50px;
+}
+
+.sliderPrincipal, .menu{
+    text-align: center;
+    margin-top: 2px; 
+}
+.card{
+    background-color: #fff;
+    width: 10%;
+    color: black;
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.Slider{
+    background-color: rgb(201, 223, 166);
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+}
